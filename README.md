@@ -1,2 +1,2 @@
-# Project-KTP-dengan-Python
-Projek ini berisi program python untuk menginput data, menampilkan data dan menghapus data ktp yang diinputkan oleh user.
+# Project-Python
+#dalam project ini berisi beberapa program python seperti program looping for dan while dasar, program pembuatan ktp, program kalkulator matriks, program kasir, dan lain-lain
